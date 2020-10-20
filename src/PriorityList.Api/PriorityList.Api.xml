@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PriorityList.Api</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:PriorityList.Api.Controllers.ToDoItemController.Create(PriorityList.Application.Messages.Commands.CreateToDoItemCommand)" -->
+        <!-- Badly formed XML comment ignored for member "M:PriorityList.Api.Controllers.ToDoItemController.Update(PriorityList.Application.Messages.Commands.UpdateToDoItemCommand)" -->
+    </members>
+</doc>
